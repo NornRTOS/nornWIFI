@@ -1,0 +1,4 @@
+/* Not ESP-IDF's roaming application (CONFIG_ESP_WIFI_ENABLE_ROAMING_APP is off). */
+#ifndef NW_STUB_ESP_ROAMING_INCLUDED
+#define NW_STUB_ESP_ROAMING_INCLUDED
+#endif
