@@ -1,0 +1,1 @@
+esp-idf v5.5.6 components/wpa_supplicant (BSD, see COPYING); of tls, eap_server, eapol_auth and wps only the headers are kept, the mbedtls crypto port is removed
